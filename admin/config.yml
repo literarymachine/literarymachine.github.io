@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: literarymachine/rightsstatements.github.io
 media_folder: "files/images"
 collections:
   - name: "blog"
