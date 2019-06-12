@@ -1,14 +1,14 @@
 ---
 layout: page
+lang: en
 title: Rights Statements
 section_id: statements
-alias: /vocab/
-lang: en
 ---
-
 # Rights Statements
 
-RightsStatements.org currently provides 12 different rights statements that can be used by cultural heritage institutions to communicate the copyright and re-use status of digital objects to the public. The rights statements have been designed with both human users and machine users (such as search engines) in mind and are made available as linked data. Each rights statement is located at a unique URI.
+RightsStatements.org currently provides 12 different rights statements that can be used by cultural heritage institutions to communicate the copyright and re-use status of digital objects to the public. The rights statements have been designed with both human users and machine users (such as search engines) in mind and are made available as linked data. Each rights statement is located at a unique URI!
+
+# Test
 
 The rights statements have been specifically developed for the needs of cultural heritage institutions and online cultural heritage aggregation platforms and are not intended to be used by individuals to license their own creations. (If you are looking for a tool to license your own works you should consider using one of the [Creative Commons licenses](https://creativecommons.org/licenses/){:target="_blank"}).
 
@@ -45,7 +45,7 @@ The rights statements have been specifically developed for the needs of cultural
   </div>
 </div>
 <div>
-  <p>The rights statements fall in three categories: Statements for works that are in copyright, statements for works that are not in copyright and statements for works where the copyright status is unclear. The statements provide end users with easy to understand high level information about the copyright and re-use status of digital objects. With the exception of the two statements for objects with an unclear copyright status, these statements should only be applied after the copyright status of a work has been established. You can find more information about how to apply the rights statements in the [documentation section](/en/documentation).</p>
+  <p>The rights statements fall in three categories: Statements for works that are in copyright, statements for works that are not in copyright and statements for works where the copyright status is unclear. The statements provide end users with easy to understand high level information about the copyright and re-use status of digital objects. With the exception of the two statements for objects with an unclear copyright status, these statements should only be applied after the copyright status of a work has been established. You can find more information about how to apply the rights statements in the \[documentation section](/en/documentation).</p>
 </div>
 
 </div>
