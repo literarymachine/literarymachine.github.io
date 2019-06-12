@@ -1,0 +1,23 @@
+[[redirects]]
+  from = "/vocab/*"
+  to = "https://httpbin.org/get"
+  status = 200
+  [redirects.headers]
+    X-Forwarded-Host = "${X_FORWARDED_HOST}"
+    X-Forwarded-Proto = "${X_FORWARDED_PROTO}"
+
+[[redirects]]
+  from = "/data/*"
+  to = "https://httpbin.org/get"
+  status = 200
+  [redirects.headers]
+    X-Forwarded-Host = "${X_FORWARDED_HOST}"
+    X-Forwarded-Proto = "${X_FORWARDED_PROTO}"
+
+[[redirects]]
+  from = "/page/*"
+  to = "https://httpbin.org/get"
+  status = 200
+  [redirects.headers]
+    X-Forwarded-Host = "${X_FORWARDED_HOST}"
+    X-Forwarded-Proto = "${X_FORWARDED_PROTO}"
