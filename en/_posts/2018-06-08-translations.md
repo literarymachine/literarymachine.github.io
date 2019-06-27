@@ -1,6 +1,6 @@
 ---
 layout: post
-title: German and Estonian translations now available for use!
+title: German and Estonian translations now available for use
 date: 2018-06-08T12:00:00.000Z
 ---
 
